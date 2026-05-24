@@ -1,0 +1,97 @@
+aid: quantum-systems
+name: Quantum Systems
+description: >-
+  Quantum-Systems GmbH is a Gilching/Munich, Germany-based dual-use drone
+  manufacturer founded in 2015 by former Bundeswehr helicopter pilot Florian
+  Seibel. The company designs, builds, and operates small electric vertical
+  take-off and landing (eVTOL) fixed-wing unmanned aircraft systems (UAS)
+  for reconnaissance, intelligence, surveillance, target acquisition (RSTA),
+  surveying, and mapping. Its flagship platforms include the Trinity Pro
+  (mapping/surveying VTOL with up to 90-minute endurance), the Vector
+  tactical reconnaissance drone (the de facto main small UAS supplier to
+  the German Bundeswehr and, with 619+ systems delivered as of April 2025,
+  one of the most-used Western reconnaissance drones in Ukraine), the
+  Reliant long-range Group 2 ISR/RSTA platform built for the U.S. market
+  with 10+ hours endurance and hot-swappable MOD-compliant payload bays
+  (EO/IR, SIGINT, EW, CRPA), and the Ukraine-manufactured Sparta drone
+  carrier that delivers two FPV drones to a 200 km combat radius. All
+  platforms are operated through QBase 3D, Quantum-Systems' proprietary
+  Windows-based mission planning, control, and post-processing software
+  with integrated ESRI terrain data and direct export to Pix4D, Agisoft,
+  Propeller, and Trimble Business Center. The Vector tactical line is
+  built on Auterion's flight stack. Backed by HV Capital, DTCP, Thiel
+  Capital, Project A, Airbus Ventures, and Omnes Capital, the company
+  reached unicorn status in May 2025 as "Europe's first dual-use unicorn."
+  Quantum-Systems supplies the militaries of Germany, the United States,
+  Ukraine, Australia, the Netherlands, New Zealand, Romania, and Spain.
+  There is no public developer API, REST endpoint, SDK, or open-source
+  release for QBase 3D or any Quantum-Systems platform; integration with
+  Pix4D/Agisoft/Propeller/Trimble is via standard photogrammetry file
+  exchange (GeoTIFF, RAW imagery, flight logs), not a programmable API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drones
+  - UAV
+  - UAS
+  - eVTOL
+  - Fixed Wing
+  - Reconnaissance
+  - ISR
+  - RSTA
+  - Surveillance
+  - Mapping
+  - Surveying
+  - Defense
+  - Dual Use
+  - Military
+  - Bundeswehr
+  - Ukraine
+  - Vector
+  - Trinity Pro
+  - Reliant
+  - Sparta
+  - QBase 3D
+  - Mission Planning
+  - Photogrammetry
+  - Aerospace
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/quantum-systems/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://quantum-systems.com
+  - type: WebsiteUS
+    url: https://quantum-systems.com/us/
+  - type: WebsiteAU
+    url: https://quantum-systems.com/au/
+  - type: TrinityPro
+    url: https://quantum-systems.com/us/trinity-pro/
+  - type: Vector
+    url: https://quantum-systems.com/vector/
+  - type: Reliant
+    url: https://quantum-systems.com/us/reliant/
+  - type: QBase3D
+    url: https://quantum-systems.com/qbase-3d/
+  - type: Blog
+    url: https://quantum-systems.com/blog/
+  - type: News
+    url: https://quantum-systems.com/news/
+  - type: Careers
+    url: https://quantum-systems.com/careers/
+  - type: Contact
+    url: https://quantum-systems.com/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quantum-systems-gmbh
+  - type: YouTube
+    url: https://www.youtube.com/@quantum-systems
+  - type: Twitter
+    url: https://twitter.com/QuantumSystems_
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
