@@ -2,13 +2,20 @@
   "repo": "quantum-systems",
   "feeds": [
     {
+      "source": "https://quantum-systems.com/us/feed/",
+      "feed_url": "https://quantum-systems.com/us/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://quantum-systems.com/qbase-3d/",
       "feed_url": "https://quantum-systems.com/us/feed/",
       "title": "",
-      "saved": 3,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 10,
+  "fetched": "2026-07-11T11:50:51Z"
 }
