@@ -2,10 +2,6 @@
   "repo": "quantum-systems",
   "feeds": [
     {
-      "source": "https://quantum-systems.com/us/feed/",
-      "error": "TimeoutError"
-    },
-    {
       "source": "https://quantum-systems.com/feed/",
       "feed_url": "https://quantum-systems.com/feed/",
       "title": "",
@@ -20,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 16,
-  "fetched": "2026-08-15T12:11:08Z"
+  "post_count": 18,
+  "fetched": "2026-08-22T20:20:02Z"
 }
